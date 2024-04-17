@@ -17,7 +17,7 @@ Cloning the Repository :
 
 -   Run the following command:
 
-                        "git clone <repository-url>"
+                        "git clone https://github.com/krunalbhatt001/Assignment.git"
 
 -   Replace <repository-url> with the URL of the Git repository.
 
